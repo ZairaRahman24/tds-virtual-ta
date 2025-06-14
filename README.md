@@ -8,6 +8,6 @@ A FastAPI-based project that acts as a virtual teaching assistant for the IIT Ma
 - Returns a well-formatted answer with supporting Discourse links
 - Designed for the Tools in Data Science (TDS) Jan 2025 course
 
-## 🔗 API Endpoint (once deployed)
+## 🔗 API Endpoint
 
 # tds-virtual-ta
