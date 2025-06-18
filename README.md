@@ -9,5 +9,6 @@ A FastAPI-based project that acts as a virtual teaching assistant for the IIT Ma
 - Designed for the Tools in Data Science (TDS) Jan 2025 course
 
 ## 🔗 API Endpoint
+https://zairarahman24-tds-virtual-ta.hf.space/api/
 
 # tds-virtual-ta
